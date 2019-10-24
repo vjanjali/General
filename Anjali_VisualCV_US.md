@@ -38,9 +38,7 @@
 
 - specializing in Cloud Computing and
 
-- Virtualization with a CGPA score of 3.454 on
-
-- 4.
+- Virtualization with a CGPA score of 3.454
 
 - B.Tech. Information Technology
 
