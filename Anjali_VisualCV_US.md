@@ -4,12 +4,6 @@
 
 - Software Engineer
 
--  California
-
--  (650) 304 5545
-
--  vjanjali@gmail.com
-
 - Technical Expertise
 
 - TensorFlow, CNN, OpenCV,  PHP, HTML5, CSS3,
@@ -27,18 +21,6 @@
 - MongoDB, Jade, MEAN Stack, SAP ABAP CRM,
 
 - SAP WebUI
-
-- Certifications
-
-- Six Sigma – Green and Black belts certified
-
-- (2015)
-
-- Lean Management (2015)
-
-- Open Sap Record of Achievement - SHINE
-
-- Reference for Native SAP HANA Application
 
 - Development
 
